@@ -59,11 +59,7 @@
 
 *   [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
 
-*   [qcyblm/vuepress](https://github.com/qcyblm/vuepress) - 收集软件和记录网络学习笔记
-
 *   [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版
-
-*   [trexminer/T-Rex](https://github.com/trexminer/T-Rex) - T-Rex NVIDIA GPU miner with web control monitoring page
 
 *   [LegnaOS/Booked-Translate](https://github.com/LegnaOS/Booked-Translate) - Booked Translate For Wordpress，Using Genuine Booked Plugin For Wordpress ，site:https://getbooked.io/
 
@@ -130,6 +126,8 @@
 *   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
 
 *   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
+
+*   [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 
 ## Java
 
@@ -204,6 +202,8 @@
 *   [wanghurui/whrblog](https://github.com/wanghurui/whrblog) - blog
 
 *   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
+*   [White-NX/White-NX.github.io](https://github.com/White-NX/White-NX.github.io) -
 
 ## Go
 
