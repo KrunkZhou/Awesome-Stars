@@ -6,10 +6,10 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
-*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [C](#c)
 *   [Roff](#roff)
@@ -26,6 +26,54 @@
 *   [Standard ML](#standard-ml)
 *   [Mercury](#mercury)
 *   [PowerShell](#powershell)
+
+## JavaScript
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) -
+
+*   [SweetIceLolly/Amima-Backend](https://github.com/SweetIceLolly/Amima-Backend) - Amima Backend
+
+*   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+
+*   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
+
+*   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
+
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+*   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
+
+*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+*   [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
+
+*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+
+*   [sitegui/nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - A node.js module for websocket server and client
+
+*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
+
+*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+
+*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
+
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+
+*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
+
+*   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
+
+*   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
+
+*   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
 
 ## TypeScript
 
@@ -80,54 +128,6 @@
 *   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 
 *   [mayankk2308/set-egpu](https://github.com/mayankk2308/set-egpu) - Display-agnostic acceleration of macOS applications using external GPUs.
-
-## JavaScript
-
-*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) -
-
-*   [SweetIceLolly/Amima-Backend](https://github.com/SweetIceLolly/Amima-Backend) - Amima Backend
-
-*   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
-
-*   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
-
-*   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
-
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-
-*   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-
-*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-
-*   [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
-
-*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-
-*   [sitegui/nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - A node.js module for websocket server and client
-
-*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
-
-*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-
-*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
-
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-
-*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
-
-*   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
-
-*   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
-
-*   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
-
-*   [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 
 ## Java
 
