@@ -37,7 +37,7 @@
 
 *   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
 
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 *   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
 
@@ -197,7 +197,7 @@
 
 ## HTML
 
-*   [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - JSON model discoverer
+*   [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - The JSON discoverer allows you to discover the implicit schema of your JSON documents. Please visit the website to use the tool
 
 *   [wanghurui/whrblog](https://github.com/wanghurui/whrblog) - blog
 
