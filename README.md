@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -16,7 +17,6 @@
 *   [C++](#c-1)
 *   [Objective-C](#objective-c)
 *   [Python](#python)
-*   [HTML](#html)
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Rust](#rust)
@@ -26,6 +26,16 @@
 *   [Standard ML](#standard-ml)
 *   [Mercury](#mercury)
 *   [PowerShell](#powershell)
+
+## HTML
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - The JSON discoverer allows you to discover the implicit schema of your JSON documents. Please visit the website to use the tool
+
+*   [wanghurui/whrblog](https://github.com/wanghurui/whrblog) - blog
+
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
 ## JavaScript
 
@@ -194,16 +204,6 @@
 *   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 *   [EssayKillerBrain/EssayKiller\_V2](https://github.com/EssayKillerBrain/EssayKiller_V2) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
-
-## HTML
-
-*   [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - The JSON discoverer allows you to discover the implicit schema of your JSON documents. Please visit the website to use the tool
-
-*   [wanghurui/whrblog](https://github.com/wanghurui/whrblog) - blog
-
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-
-*   [White-NX/White-NX.github.io](https://github.com/White-NX/White-NX.github.io) -
 
 ## Go
 
