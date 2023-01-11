@@ -46,6 +46,8 @@
 
 *   [wanghurui/whrblog](https://github.com/wanghurui/whrblog) - blog
 
+*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+
 *   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
 ## JavaScript
@@ -145,8 +147,6 @@
 ## Shell
 
 *   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
-
-*   [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 
 *   [mayankk2308/set-egpu](https://github.com/mayankk2308/set-egpu) - Display-agnostic acceleration of macOS applications using external GPUs.
 
