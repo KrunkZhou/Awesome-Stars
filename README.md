@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Batchfile](#batchfile)
 *   [Go](#go)
 *   [HTML](#html)
 *   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Java](#java)
@@ -27,6 +27,34 @@
 *   [Standard ML](#standard-ml)
 *   [Mercury](#mercury)
 *   [PowerShell](#powershell)
+
+## TypeScript
+
+*   [JoaoFelipe/nbslide](https://github.com/JoaoFelipe/nbslide) - Slideshow extension for JupyterLab.
+
+*   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
+
+*   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - Unofficial TypeScript client for the Grammarly API
+
+*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+
+*   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
+
+*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
+
+*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
+
+*   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
+
+*   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly :runner:
+
+*   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io
+
+*   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
+
+*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 ## Batchfile
 
@@ -97,32 +125,6 @@
 *   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
 
 *   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
-
-## TypeScript
-
-*   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
-
-*   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - Unofficial TypeScript client for the Grammarly API
-
-*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-
-*   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
-
-*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-
-*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
-
-*   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-
-*   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly :runner:
-
-*   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io
-
-*   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
-
-*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 ## miscellaneous
 
@@ -255,8 +257,6 @@
 *   [yinghualuowu/GenshinDailyHelper](https://github.com/yinghualuowu/GenshinDailyHelper) - miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Github Action 自动执行 米游社原神每日签到福利
 
 *   [win-acme/win-acme](https://github.com/win-acme/win-acme) - A simple ACME client for Windows (for use with Let's Encrypt et al.)
-
-*   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 
 ## Standard ML
 
