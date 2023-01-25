@@ -6,6 +6,8 @@
 
 ## Table of Contents
 
+*   [Java](#java)
+*   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Batchfile](#batchfile)
 *   [Go](#go)
@@ -13,10 +15,8 @@
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
-*   [Java](#java)
-*   [C](#c)
+*   [C](#c-1)
 *   [Roff](#roff)
-*   [C++](#c-1)
 *   [Objective-C](#objective-c)
 *   [Python](#python)
 *   [Vue](#vue)
@@ -27,6 +27,34 @@
 *   [Standard ML](#standard-ml)
 *   [Mercury](#mercury)
 *   [PowerShell](#powershell)
+
+## Java
+
+*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
+
+*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [ushahidi/SMSSync](https://github.com/ushahidi/SMSSync) - SMS gateway for Android powered phones
+
+## C++
+
+*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
+
+*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight out-of-box-experience oriented Hyper-V client based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
+
+*   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
+
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+
+*   [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
+
+*   [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - \[Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
+
+*   [polygraphene/ALVR](https://github.com/polygraphene/ALVR) - ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.
+
+*   [L3cr0f/DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC) - Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe".
 
 ## TypeScript
 
@@ -53,8 +81,6 @@
 *   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
 
 *   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 ## Batchfile
 
@@ -124,8 +150,6 @@
 
 *   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
 
-*   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
-
 ## miscellaneous
 
 *   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
@@ -152,14 +176,6 @@
 
 *   [mayankk2308/set-egpu](https://github.com/mayankk2308/set-egpu) - Display-agnostic acceleration of macOS applications using external GPUs.
 
-## Java
-
-*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [ushahidi/SMSSync](https://github.com/ushahidi/SMSSync) - SMS gateway for Android powered phones
-
 ## C
 
 *   [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
@@ -179,22 +195,6 @@
 ## Roff
 
 *   [nvPress/nvPress](https://github.com/nvPress/nvPress) - 基于Vue、NodeJS的免费CMS系统
-
-## C++
-
-*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight out-of-box-experience oriented Hyper-V client based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
-
-*   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
-
-*   [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - \[Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
-
-*   [polygraphene/ALVR](https://github.com/polygraphene/ALVR) - ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.
-
-*   [L3cr0f/DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC) - Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe".
 
 ## Objective-C
 
