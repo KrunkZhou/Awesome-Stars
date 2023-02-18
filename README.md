@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [C](#c)
+*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [Java](#java)
 *   [C++](#c-1)
@@ -26,6 +26,26 @@
 *   [C#](#c-2)
 *   [Mercury](#mercury)
 *   [PowerShell](#powershell)
+
+## C
+
+*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+
+*   [KuromeSan/eCDP-Serial-Code](https://github.com/KuromeSan/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
+
+*   [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
+
+*   [SweetIceLolly/Huorong\_Vulnerabilities](https://github.com/SweetIceLolly/Huorong_Vulnerabilities) - Huorong Internet Security vulnerabilities 火绒安全软件漏洞
+
+*   [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -
+
+*   [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
+
+*   [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
+
+*   [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS "Custom Firmware"
+
+*   [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 
 ## miscellaneous
 
@@ -48,24 +68,6 @@
 *   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 
 *   [komeiji-satori/Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
-
-## C
-
-*   [KuromeSan/eCDP-Serial-Code](https://github.com/KuromeSan/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
-
-*   [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
-
-*   [SweetIceLolly/Huorong\_Vulnerabilities](https://github.com/SweetIceLolly/Huorong_Vulnerabilities) - Huorong Internet Security vulnerabilities 火绒安全软件漏洞
-
-*   [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -
-
-*   [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
-
-*   [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
-
-*   [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS "Custom Firmware"
-
-*   [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
 
 ## JavaScript
 
@@ -164,8 +166,6 @@
 *   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io
 
 *   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
-
-*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 
 ## Batchfile
 
