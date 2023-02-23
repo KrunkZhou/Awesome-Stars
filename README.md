@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
@@ -18,7 +19,6 @@
 *   [Shell](#shell)
 *   [Roff](#roff)
 *   [Objective-C](#objective-c)
-*   [Python](#python)
 *   [Vue](#vue)
 *   [Rust](#rust)
 *   [PHP](#php)
@@ -26,6 +26,22 @@
 *   [C#](#c-2)
 *   [Mercury](#mercury)
 *   [PowerShell](#powershell)
+
+## Python
+
+*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
+
+*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+
+*   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
+
+*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
+
+*   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+*   [EssayKillerBrain/WriteGPT](https://github.com/EssayKillerBrain/WriteGPT) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
 ## C
 
@@ -165,8 +181,6 @@
 
 *   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io
 
-*   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
-
 ## Batchfile
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and transparent Windows operating system, designed to optimize performance and latency.
@@ -202,20 +216,6 @@
 ## Objective-C
 
 *   [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
-
-## Python
-
-*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
-
-*   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
-
-*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
-
-*   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
-
-*   [EssayKillerBrain/WriteGPT](https://github.com/EssayKillerBrain/WriteGPT) - 基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
 ## Vue
 
