@@ -25,9 +25,10 @@
 *   [Swift](#swift)
 *   [C#](#c-2)
 *   [Mercury](#mercury)
-*   [PowerShell](#powershell)
 
 ## TypeScript
+
+*   [jupyterlab-contrib/rise](https://github.com/jupyterlab-contrib/rise) - RISE: "Live" Reveal.js JupyterLab Slideshow Extension
 
 *   [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 
@@ -262,9 +263,5 @@
 ## Mercury
 
 *   [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
-
-## PowerShell
-
-*   [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 
 *   generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
