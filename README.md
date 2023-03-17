@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [C](#c)
 *   [miscellaneous](#miscellaneous)
-*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [C++](#c-1)
 *   [Batchfile](#batchfile)
@@ -25,6 +25,54 @@
 *   [PHP](#php)
 *   [Swift](#swift)
 *   [C#](#c-2)
+
+## JavaScript
+
+*   [timvisee/send](https://github.com/timvisee/send) - :mailbox\_with\_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) -
+
+*   [SweetIceLolly/Amima-Backend](https://github.com/SweetIceLolly/Amima-Backend) - Amima Backend
+
+*   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+
+*   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
+
+*   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
+
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+*   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
+
+*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+*   [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
+
+*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+
+*   [sitegui/nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - A node.js module for websocket server and client
+
+*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
+
+*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+
+*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
+
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+
+*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
+
+*   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
 
 ## Jupyter Notebook
 
@@ -92,8 +140,6 @@
 
 *   [LumaTeam/Luma3DS](https://github.com/LumaTeam/Luma3DS) - Noob-proof (N)3DS "Custom Firmware"
 
-*   [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Honeypot Platform 🐝
-
 ## miscellaneous
 
 *   [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
@@ -113,52 +159,6 @@
 *   [LegnaOS/TrafficMonitor](https://github.com/LegnaOS/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 *   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-## JavaScript
-
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-
-*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) -
-
-*   [SweetIceLolly/Amima-Backend](https://github.com/SweetIceLolly/Amima-Backend) - Amima Backend
-
-*   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-
-*   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
-
-*   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
-
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-
-*   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-
-*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-
-*   [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
-
-*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-
-*   [sitegui/nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - A node.js module for websocket server and client
-
-*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
-
-*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-
-*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
-
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-
-*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
-
-*   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
 
 ## Java
 
