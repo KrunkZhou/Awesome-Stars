@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Go](#go)
-*   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
-*   [Python](#python)
 *   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Java](#java)
@@ -26,23 +26,25 @@
 *   [Swift](#swift)
 *   [C#](#c-2)
 
-## Shell
+## Python
 
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+*   [binary-husky/chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
 
-*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
 
-*   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
+*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
 
-## Go
+*   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 
-*   [pyed/transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot
+*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
 
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+*   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
 
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## JavaScript
+
+*   [INSIDERDAVIDLAI/APS\_1050\_Final\_Project](https://github.com/INSIDERDAVIDLAI/APS_1050_Final_Project) - BLOCKCHAIN TECHNOLOGIES AND ITS APPLICATIONS TO CRYPTOCURRENCIES FINAL PROJECT
 
 *   [timvisee/send](https://github.com/timvisee/send) - :mailbox\_with\_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 
@@ -88,6 +90,22 @@
 
 *   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 
+## Shell
+
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+
+*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+
+*   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
+
+## Go
+
+*   [pyed/transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot
+
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+
 ## Jupyter Notebook
 
 *   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
@@ -119,20 +137,6 @@
 *   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly :runner:
 
 *   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for UniFi Protect with full support for most features including autoconfiguration, motion detection, and multiple controllers: https://homebridge.io
-
-## Python
-
-*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-
-*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
-
-*   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
-
-*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
-
-*   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## C
 
@@ -248,8 +252,6 @@
 
 *   [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
 
-*   [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - Open source alternative communication platform
-
 ## C\#
 
 *   [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
@@ -261,7 +263,5 @@
 *   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 
 *   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-
-*   [yinghualuowu/GenshinDailyHelper](https://github.com/yinghualuowu/GenshinDailyHelper) - miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Github Action 自动执行 米游社原神每日签到福利
 
 *   generated with [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome)
