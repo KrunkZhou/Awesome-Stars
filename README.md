@@ -28,6 +28,8 @@
 
 ## Python
 
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue
+
 *   [binary-husky/chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能
 
 *   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
@@ -173,8 +175,6 @@
 *   [LegnaOS/SimpleWebNavigation](https://github.com/LegnaOS/SimpleWebNavigation) - 这是一个基于PHP给个人使用的网址导航，所有链接均可以在txt文件中添加与删除而不需要修改代码
 
 *   [LegnaOS/TrafficMonitor](https://github.com/LegnaOS/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 
 ## Java
 
