@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Scala](#scala)
 *   [C](#c)
 *   [C#](#c-1)
 *   [Python](#python)
@@ -25,6 +26,10 @@
 *   [Rust](#rust)
 *   [PHP](#php)
 *   [Swift](#swift)
+
+## Scala
+
+*   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 
 ## C
 
@@ -57,8 +62,6 @@
 *   [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 
 *   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
-
-*   [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 
 ## Python
 
