@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Go](#go)
 *   [Svelte](#svelte)
 *   [Scala](#scala)
 *   [C](#c)
 *   [C#](#c-1)
-*   [Python](#python)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -27,6 +27,28 @@
 *   [Rust](#rust)
 *   [PHP](#php)
 *   [Swift](#swift)
+
+## Python
+
+*   [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+
+*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+
+*   [binary-husky/chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++项目剖析/自译解功能，PDF/LaTex论文翻译/总结功能，兼容ChatGLM等本地模型
+
+*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
+
+*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+
+*   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
+
+*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
+
+*   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## Go
 
@@ -77,26 +99,6 @@
 *   [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 
 *   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
-
-## Python
-
-*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
-
-*   [binary-husky/chatgpt\_academic](https://github.com/binary-husky/chatgpt_academic) - 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持自定义函数插件，支持markdown代码块表格显示，Tex公式双显示，新增Python/C++项目剖析/自译解功能，PDF/LaTex论文翻译/总结功能，兼容ChatGLM等本地模型
-
-*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-
-*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
-
-*   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
-
-*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
-
-*   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## JavaScript
 
@@ -199,8 +201,6 @@
 *   [LegnaOS/StartupAnimation](https://github.com/LegnaOS/StartupAnimation) - 对HackBGRT进行简体中文化处理，符合中国本土用户使用
 
 *   [LegnaOS/SimpleWebNavigation](https://github.com/LegnaOS/SimpleWebNavigation) - 这是一个基于PHP给个人使用的网址导航，所有链接均可以在txt文件中添加与删除而不需要修改代码
-
-*   [LegnaOS/TrafficMonitor](https://github.com/LegnaOS/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 
 ## Java
 
