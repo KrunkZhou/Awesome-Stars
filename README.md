@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Python](#python)
 *   [Go](#go)
 *   [Svelte](#svelte)
 *   [Scala](#scala)
-*   [C](#c)
 *   [C#](#c-1)
 *   [JavaScript](#javascript)
 *   [Shell](#shell)
@@ -28,9 +28,31 @@
 *   [PHP](#php)
 *   [Swift](#swift)
 
+## C
+
+*   [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.4 semi-tethered checkm8 jailbreak
+
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+
+*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
+
+*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
+
+*   [KuromeSan/eCDP-Serial-Code](https://github.com/KuromeSan/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
+
+*   [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
+
+*   [SweetIceLolly/Huorong\_Vulnerabilities](https://github.com/SweetIceLolly/Huorong_Vulnerabilities) - Huorong Internet Security vulnerabilities 火绒安全软件漏洞
+
+*   [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -
+
+*   [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
+
+*   [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
+
 ## Python
 
-*   [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU部署 (Chinese LLaMA & Alpaca LLMs)
 
@@ -67,26 +89,6 @@
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-
-## C
-
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
-
-*   [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server
-
-*   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
-
-*   [KuromeSan/eCDP-Serial-Code](https://github.com/KuromeSan/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
-
-*   [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
-
-*   [SweetIceLolly/Huorong\_Vulnerabilities](https://github.com/SweetIceLolly/Huorong_Vulnerabilities) - Huorong Internet Security vulnerabilities 火绒安全软件漏洞
-
-*   [peng-zhihui/HelloWord-Keyboard](https://github.com/peng-zhihui/HelloWord-Keyboard) -
-
-*   [lvgl/lvgl](https://github.com/lvgl/lvgl) - Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. It's boosted by a professional yet affordable drag and drop UI editor, called SquareLine Studio.
-
-*   [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
 
 ## C\#
 
@@ -200,8 +202,6 @@
 
 *   [LegnaOS/StartupAnimation](https://github.com/LegnaOS/StartupAnimation) - 对HackBGRT进行简体中文化处理，符合中国本土用户使用
 
-*   [LegnaOS/SimpleWebNavigation](https://github.com/LegnaOS/SimpleWebNavigation) - 这是一个基于PHP给个人使用的网址导航，所有链接均可以在txt文件中添加与删除而不需要修改代码
-
 ## Java
 
 *   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
@@ -214,7 +214,7 @@
 
 *   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
 
-*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight out-of-box-experience oriented Hyper-V client based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
+*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
 
 *   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
 
