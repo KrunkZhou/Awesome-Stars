@@ -96,6 +96,8 @@
 
 *   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
+*   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
+
 *   [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 
 *   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
@@ -217,8 +219,6 @@
 *   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
 
 *   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
-
-*   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
 
 *   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
