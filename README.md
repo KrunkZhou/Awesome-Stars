@@ -30,6 +30,8 @@
 
 ## Python
 
+*   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
+
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
 *   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -103,8 +105,6 @@
 *   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 
 *   [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
-
-*   [Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
 
 ## JavaScript
 
