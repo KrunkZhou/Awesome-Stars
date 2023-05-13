@@ -140,8 +140,6 @@
 
 *   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
 
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-
 *   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
 
 *   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
@@ -195,6 +193,8 @@
 *   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
 
 *   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - 📚 Unofficial TypeScript client for the Grammarly API
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 *   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
 
