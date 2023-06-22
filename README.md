@@ -97,7 +97,7 @@
 
 *   [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware) - Flipper Zero Unleashed Firmware
 
-*   [KuromeSan/eCDP-Serial-Code](https://github.com/KuromeSan/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
+*   [LiEnby/eCDP-Serial-Code](https://github.com/LiEnby/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
 
 *   [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
 
