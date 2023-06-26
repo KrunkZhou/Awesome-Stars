@@ -99,7 +99,7 @@
 
 *   [LiEnby/eCDP-Serial-Code](https://github.com/LiEnby/eCDP-Serial-Code) - Generates "Serial Code" for eCDP DS game.
 
-*   [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
+*   [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 
 *   [SweetIceLolly/Huorong\_Vulnerabilities](https://github.com/SweetIceLolly/Huorong_Vulnerabilities) - Huorong Internet Security vulnerabilities 火绒安全软件漏洞
 
