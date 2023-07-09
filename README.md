@@ -101,7 +101,7 @@
 
 ## C
 
-*   [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5 semi-tethered checkm8 jailbreak
+*   [palera1n/palera1n](https://github.com/palera1n/palera1n) - iOS 15.0-16.5.1 semi-tethered checkm8 jailbreak
 
 *   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 
