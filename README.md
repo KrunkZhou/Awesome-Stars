@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
@@ -19,13 +20,22 @@
 *   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
-*   [Java](#java)
 *   [Batchfile](#batchfile)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Swift](#swift)
+
+## Java
+
+*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+
+*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
+
+*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 
 ## Go
 
@@ -222,16 +232,6 @@
 *   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 
 *   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly.
-
-*   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for all UniFi Protect device types with full support for most features including HomeKit Secure Video, and more.  https://homebridge.io
-
-## Java
-
-*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
-
-*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 
 ## Batchfile
 
