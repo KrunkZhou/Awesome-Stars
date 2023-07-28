@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
+*   [Python](#python)
 *   [Java](#java)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
-*   [Python](#python)
 *   [C](#c)
 *   [Svelte](#svelte)
 *   [Scala](#scala)
@@ -27,7 +27,35 @@
 *   [PHP](#php)
 *   [Swift](#swift)
 
+## Python
+
+*   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+
+*   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
+
+*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+
+*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm2等本地模型。兼容复旦MOSS, llama, rwkv, newbing, claude, claude2等
+
+*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
+
+*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
+
+*   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
+
+*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
+
+*   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
+
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
 ## Java
+
+*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
 
 *   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
 
@@ -77,37 +105,11 @@
 
 *   [LegnaOS/Booked-Translate](https://github.com/LegnaOS/Booked-Translate) - Booked Translate For Wordpress，Using Genuine Booked Plugin For Wordpress ，site:https://getbooked.io/
 
-*   [LegnaOS/StartupAnimation](https://github.com/LegnaOS/StartupAnimation) - 对HackBGRT进行简体中文化处理，符合中国本土用户使用
-
 ## Rust
 
 *   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
 *   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-
-## Python
-
-*   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
-
-*   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
-
-*   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm2等本地模型。兼容复旦MOSS, llama, rwkv, newbing, claude, claude2等
-
-*   [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
-
-*   [Ultimaker/Cura](https://github.com/Ultimaker/Cura) - 3D printer / slicing GUI built on top of the Uranium framework
-
-*   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
-
-*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
-
-*   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
-
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 ## C
 
@@ -144,8 +146,6 @@
 *   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 *   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
-
-*   [ALIILAPRO/warp-plus-cloudflare](https://github.com/ALIILAPRO/warp-plus-cloudflare) - Script for getting unlimited GB on Warp+ ( https://1.1.1.1/ )
 
 ## C++
 
