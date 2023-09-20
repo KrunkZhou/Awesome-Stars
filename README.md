@@ -14,11 +14,11 @@
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [C](#c)
+*   [JavaScript](#javascript)
 *   [Svelte](#svelte)
 *   [Scala](#scala)
 *   [C#](#c-1)
 *   [C++](#c-2)
-*   [JavaScript](#javascript)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Batchfile](#batchfile)
@@ -39,8 +39,6 @@
 *   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
-
-*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 
@@ -138,31 +136,9 @@
 
 *   [peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic) - 带网络功能的伪全息透明显示桌面站
 
-## Svelte
-
-*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-
-## Scala
-
-*   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-
-## C\#
-
-*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
-
-*   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
-
-## C++
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
-
-*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
-
-*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
-
-*   [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
-
 ## JavaScript
+
+*   [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 
 *   [INSIDERDAVIDLAI/APS\_1050\_Final\_Project](https://github.com/INSIDERDAVIDLAI/APS_1050_Final_Project) - BLOCKCHAIN TECHNOLOGIES AND ITS APPLICATIONS TO CRYPTOCURRENCIES FINAL PROJECT
 
@@ -203,6 +179,30 @@
 *   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
 
 *   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
+
+## Svelte
+
+*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+
+## Scala
+
+*   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+
+## C\#
+
+*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
+
+*   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
+
+## C++
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+
+*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
+
+*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
+
+*   [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
 
 ## Jupyter Notebook
 
