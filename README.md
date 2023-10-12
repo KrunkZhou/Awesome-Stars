@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-*   [G-code](#g-code)
 *   [Python](#python)
+*   [G-code](#g-code)
 *   [Java](#java)
 *   [Go](#go)
 *   [Shell](#shell)
@@ -28,11 +28,11 @@
 *   [PHP](#php)
 *   [Swift](#swift)
 
-## G-code
-
-*   [re-mote-sensing/re-mote](https://github.com/re-mote-sensing/re-mote) - Open-source Low-cost Software and Hardware Infrastructure for Remote Sensing
-
 ## Python
+
+*   [LmeSzinc/StarRailCopilot](https://github.com/LmeSzinc/StarRailCopilot) - 崩坏：星穹铁道脚本 | Honkai: Star Rail bot (简体中文/繁體中文/English/Español)
+
+*   [CHNZYX/Auto\_Simulated\_Universe](https://github.com/CHNZYX/Auto_Simulated_Universe) - 崩坏：星穹铁道 模拟宇宙自动化 （Honkai Star Rail - Auto Simulated Universe）
 
 *   [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
 
@@ -55,6 +55,10 @@
 *   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
 
 *   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+
+## G-code
+
+*   [re-mote-sensing/re-mote](https://github.com/re-mote-sensing/re-mote) - Open-source Low-cost Software and Hardware Infrastructure for Remote Sensing
 
 ## Java
 
@@ -231,10 +235,6 @@
 *   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
 
 *   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
-
-*   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-
-*   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly.
 
 ## Batchfile
 
