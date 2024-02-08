@@ -6,11 +6,11 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [G-code](#g-code)
-*   [Java](#java)
 *   [Go](#go)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
@@ -26,6 +26,20 @@
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Swift](#swift)
+
+## Java
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
+
+*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+
+*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
+
+*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 
 ## JavaScript
 
@@ -132,18 +146,6 @@
 ## G-code
 
 *   [re-mote-sensing/re-mote](https://github.com/re-mote-sensing/re-mote) - Open-source Low-cost Software and Hardware Infrastructure for Remote Sensing
-
-## Java
-
-*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
-
-*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-
-*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
-
-*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 
 ## Go
 
@@ -254,8 +256,6 @@
 *   [qcyblm/vuepress-theme-vpx-next](https://github.com/qcyblm/vuepress-theme-vpx-next) - Repo for vuepress-theme-vpx 2
 
 *   [juzser/vue-bot-ui](https://github.com/juzser/vue-bot-ui) - For the one who is finding a customizable chatbot UI.
-
-*   [auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora) - 🏳️‍🌈 Futuristic auroral Hexo theme.
 
 ## PHP
 
