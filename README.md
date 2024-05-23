@@ -91,8 +91,6 @@
 
 *   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 
-*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-
 *   [INSIDERDAVIDLAI/APS\_1050\_Final\_Project](https://github.com/INSIDERDAVIDLAI/APS_1050_Final_Project) - BLOCKCHAIN TECHNOLOGIES AND ITS APPLICATIONS TO CRYPTOCURRENCIES FINAL PROJECT
 
 *   [timvisee/send](https://github.com/timvisee/send) - :mailbox\_with\_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
@@ -142,6 +140,8 @@
 *   [voicepaw/so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork) - so-vits-svc fork with realtime support, improved interface and more features.
 
 *   [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+
+*   [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 
 *   [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA\&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 
