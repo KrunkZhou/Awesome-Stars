@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [PowerShell](#powershell)
 *   [Java](#java)
 *   [C++](#c)
@@ -20,13 +21,18 @@
 *   [C](#c-1)
 *   [Scala](#scala)
 *   [C#](#c-2)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [Batchfile](#batchfile)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Swift](#swift)
+
+## Jupyter Notebook
+
+*   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - ChatTTS is a generative speech model for daily dialogue.
+
+*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 
 ## PowerShell
 
@@ -234,10 +240,6 @@
 
 *   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
-## Jupyter Notebook
-
-*   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
-
 ## Batchfile
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and security.
@@ -263,8 +265,6 @@
 ## PHP
 
 *   [edamov/pushok](https://github.com/edamov/pushok) - PHP client for Apple Push Notification Service (APNs) - Send push notifications to iOS using the new APNs HTTP/2 protocol with token-based (JWT with p8 private key)
-
-*   [outlandishideas/sync](https://github.com/outlandishideas/sync) - Sync directory contents over HTTP using PHP
 
 ## Swift
 
