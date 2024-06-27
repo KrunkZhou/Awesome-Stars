@@ -6,10 +6,10 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Python](#python)
 *   [PowerShell](#powershell)
 *   [Java](#java)
-*   [C++](#c)
 *   [Go](#go)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
@@ -27,6 +27,22 @@
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Swift](#swift)
+
+## C++
+
+*   [ayushsharma82/WebSerial](https://github.com/ayushsharma82/WebSerial) - A remote terminal library for wireless microcontrollers to log, monitor or debug your firmware/product
+
+*   [stanleyhuangyc/Freematics](https://github.com/stanleyhuangyc/Freematics) - Official source code repository for Freematics
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
+
+*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
+
+*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
 
 ## Python
 
@@ -54,8 +70,6 @@
 
 *   [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 
-*   [liudaolunboluo/WxChatRecordTool](https://github.com/liudaolunboluo/WxChatRecordTool) - 微信聊天记录小工具
-
 ## PowerShell
 
 *   [empty-233/tencent-sandbox](https://github.com/empty-233/tencent-sandbox) - Windows sandbox 腾讯全家桶沙盒配置
@@ -73,20 +87,6 @@
 *   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
 
 *   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-## C++
-
-*   [stanleyhuangyc/Freematics](https://github.com/stanleyhuangyc/Freematics) - Official source code repository for Freematics
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
-
-*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
-
-*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
 
 ## Go
 
