@@ -126,7 +126,7 @@
 
 *   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
 
-*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) -
+*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
 
 *   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - 📚 Unofficial TypeScript client for the Grammarly API
 
