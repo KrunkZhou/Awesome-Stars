@@ -19,7 +19,6 @@
 *   [Rust](#rust)
 *   [C](#c-1)
 *   [Scala](#scala)
-*   [C#](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Batchfile](#batchfile)
 *   [HTML](#html)
@@ -176,6 +175,8 @@
 
 *   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
 
+*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+
 ## G-code
 
 *   [re-mote-sensing/re-mote](https://github.com/re-mote-sensing/re-mote) - Open-source Low-cost Software and Hardware Infrastructure for Remote Sensing
@@ -231,10 +232,6 @@
 ## Scala
 
 *   [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
-
-## C\#
-
-*   [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 
 ## Jupyter Notebook
 
