@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Python](#python)
 *   [C++](#c)
 *   [PowerShell](#powershell)
@@ -14,7 +15,6 @@
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [G-code](#g-code)
-*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [C](#c-1)
@@ -25,6 +25,18 @@
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Swift](#swift)
+
+## Shell
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
+
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+
+*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+
+*   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 
 ## Python
 
@@ -68,7 +80,7 @@
 
 *   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
 
-*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands.
+*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands
 
 ## PowerShell
 
@@ -176,21 +188,9 @@
 
 *   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
 
-*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-
 ## G-code
 
 *   [re-mote-sensing/re-mote](https://github.com/re-mote-sensing/re-mote) - Open-source Low-cost Software and Hardware Infrastructure for Remote Sensing
-
-## Shell
-
-*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
-
-*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-
-*   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 
 ## miscellaneous
 
