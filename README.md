@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Svelte](#svelte)
 *   [TypeScript](#typescript)
 *   [Shell](#shell)
 *   [Python](#python)
@@ -25,6 +26,10 @@
 *   [Vue](#vue)
 *   [PHP](#php)
 *   [Swift](#swift)
+
+## Svelte
+
+*   [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
 ## TypeScript
 
@@ -187,8 +192,6 @@
 *   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 
 *   [sitegui/nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - A node.js module for websocket server and client
-
-*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
 
 ## G-code
 
