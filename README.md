@@ -53,7 +53,7 @@
 
 *   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server that will automatically download selected version at startup
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
 
 *   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 
