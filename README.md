@@ -28,7 +28,7 @@
 
 ## Vue
 
-*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. NOT FOR SAFARI, SAY NO TO SUPPORT SAFARI. FUCK APPLE! (English | 简体中文 | 正體中文 | 廣東話)
+*   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. NOT FOR SAFARI, SAY NO TO SUPPORT SAFARI. FUCK APPLE! Bewley on the App Store is not uploaded by us and we do not endorse it. (English | 简体中文 | 正體中文 | 廣東話)
 
 *   [qcyblm/vuepress-theme-vpx-next](https://github.com/qcyblm/vuepress-theme-vpx-next) - Repo for vuepress-theme-vpx 2
 
