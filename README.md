@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
@@ -13,7 +14,6 @@
 *   [Shell](#shell)
 *   [Python](#python)
 *   [Svelte](#svelte)
-*   [TypeScript](#typescript)
 *   [PowerShell](#powershell)
 *   [Java](#java)
 *   [Go](#go)
@@ -25,6 +25,42 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
+
+## TypeScript
+
+*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+
+*   [potmat/homebridge-google-nest-sdm](https://github.com/potmat/homebridge-google-nest-sdm) - A Homebridge plugin for Google Nest devices that uses the Google Smart Device Management API. Supports Cameras, Doorbells, Displays, and Thermostats. Includes support for HomeKit Secure Video.
+
+*   [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
+
+*   [K0IN/Notify](https://github.com/K0IN/Notify) - A small deno deploy / self hosted solution to send web push notifications with webhooks
+
+*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+
+*   [jupyterlab-contrib/rise](https://github.com/jupyterlab-contrib/rise) - RISE: "Live" Reveal.js JupyterLab Slideshow Extension
+
+*   [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+
+*   [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
+
+*   [JoaoFelipe/nbslide](https://github.com/JoaoFelipe/nbslide) - Slideshow extension for JupyterLab.
+
+*   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
+
+*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
+
+*   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - 📚 Unofficial TypeScript client for the Grammarly API
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+
+*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+
+*   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
+
+*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
+
+*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
 
 ## Vue
 
@@ -49,8 +85,6 @@
 *   [nvPress/nvPress](https://github.com/nvPress/nvPress) - 基于Vue、NodeJS的免费CMS系统
 
 *   [github-education-resources/GitHubGraduation-2022](https://github.com/github-education-resources/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
-
-*   [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版
 
 ## C++
 
@@ -117,40 +151,6 @@
 ## Svelte
 
 *   [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-
-## TypeScript
-
-*   [potmat/homebridge-google-nest-sdm](https://github.com/potmat/homebridge-google-nest-sdm) - A Homebridge plugin for Google Nest devices that uses the Google Smart Device Management API. Supports Cameras, Doorbells, Displays, and Thermostats. Includes support for HomeKit Secure Video.
-
-*   [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-
-*   [K0IN/Notify](https://github.com/K0IN/Notify) - A small deno deploy / self hosted solution to send web push notifications with webhooks
-
-*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-
-*   [jupyterlab-contrib/rise](https://github.com/jupyterlab-contrib/rise) - RISE: "Live" Reveal.js JupyterLab Slideshow Extension
-
-*   [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-
-*   [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
-
-*   [JoaoFelipe/nbslide](https://github.com/JoaoFelipe/nbslide) - Slideshow extension for JupyterLab.
-
-*   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
-
-*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
-
-*   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - 📚 Unofficial TypeScript client for the Grammarly API
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-
-*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-
-*   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
-
-*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-
-*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
 
 ## PowerShell
 
