@@ -106,7 +106,7 @@
 
 ## Shell
 
-*   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Docker container for a Terraria dedicated server
+*   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Unofficial Docker container for a Terraria dedicated server. Supports vanilla and modded through tModLoader.
 
 *   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 
