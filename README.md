@@ -29,6 +29,8 @@
 
 ## Swift
 
+*   [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
+
 *   [EmergeTools/Pow](https://github.com/EmergeTools/Pow) - Delightful SwiftUI effects for your app
 
 ## Python
@@ -222,8 +224,6 @@
 *   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 
 *   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 
 ## G-code
 
