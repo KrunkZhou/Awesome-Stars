@@ -129,7 +129,7 @@
 
 *   [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered)
 
-*   [ayushsharma82/WebSerial](https://github.com/ayushsharma82/WebSerial) - A remote terminal library for wireless microcontrollers to log, monitor or debug your firmware/product
+*   [ayushsharma82/WebSerial](https://github.com/ayushsharma82/WebSerial) - A remote terminal library for wireless microcontrollers to log, monitor or debug your firmware/product.
 
 *   [stanleyhuangyc/Freematics](https://github.com/stanleyhuangyc/Freematics) - Official source code repository for Freematics
 
