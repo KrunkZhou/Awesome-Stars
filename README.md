@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
+*   [C++](#c)
 *   [Swift](#swift)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
-*   [C++](#c)
 *   [Shell](#shell)
 *   [Svelte](#svelte)
 *   [PowerShell](#powershell)
@@ -26,6 +26,26 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
+
+## C++
+
+*   [vdshko/vdshko-Spatialite\_GRDB\_Sample](https://github.com/vdshko/vdshko-Spatialite_GRDB_Sample) - This sample shows how to integrate Spatialite, GRDB, and SQLCipher into your Swift project. It's nearly empty, however, it's fully playable.
+
+*   [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered)
+
+*   [ayushsharma82/WebSerial](https://github.com/ayushsharma82/WebSerial) - A remote terminal library for wireless microcontrollers to log, monitor or debug your firmware/product.
+
+*   [stanleyhuangyc/Freematics](https://github.com/stanleyhuangyc/Freematics) - Official source code repository for Freematics
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
+
+*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands
 
 ## Swift
 
@@ -99,8 +119,6 @@
 
 *   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
 
-*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
-
 ## Vue
 
 *   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
@@ -124,24 +142,6 @@
 *   [nvPress/nvPress](https://github.com/nvPress/nvPress) - 基于Vue、NodeJS的免费CMS系统
 
 *   [github-education-resources/GitHubGraduation-2022](https://github.com/github-education-resources/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
-
-## C++
-
-*   [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered)
-
-*   [ayushsharma82/WebSerial](https://github.com/ayushsharma82/WebSerial) - A remote terminal library for wireless microcontrollers to log, monitor or debug your firmware/product.
-
-*   [stanleyhuangyc/Freematics](https://github.com/stanleyhuangyc/Freematics) - Official source code repository for Freematics
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
-
-*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands
 
 ## Shell
 
