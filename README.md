@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [C++](#c)
 *   [Swift](#swift)
 *   [Python](#python)
@@ -13,7 +14,6 @@
 *   [Vue](#vue)
 *   [Dart](#dart)
 *   [miscellaneous](#miscellaneous)
-*   [Shell](#shell)
 *   [Svelte](#svelte)
 *   [PowerShell](#powershell)
 *   [Java](#java)
@@ -26,6 +26,22 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
+
+## Shell
+
+*   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - cursor 0.45.x machine id reset
+
+*   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Unofficial Docker container for a Terraria dedicated server. Supports vanilla and modded through tModLoader.
+
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
+
+*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
+
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
+
+*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
+
+*   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 
 ## C++
 
@@ -117,8 +133,6 @@
 
 *   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
 
-*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-
 ## Vue
 
 *   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
@@ -142,20 +156,6 @@
 *   [nvPress/nvPress](https://github.com/nvPress/nvPress) - 基于Vue、NodeJS的免费CMS系统
 
 *   [github-education-resources/GitHubGraduation-2022](https://github.com/github-education-resources/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
-
-## Shell
-
-*   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Unofficial Docker container for a Terraria dedicated server. Supports vanilla and modded through tModLoader.
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup
-
-*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-
-*   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 
 ## Svelte
 
