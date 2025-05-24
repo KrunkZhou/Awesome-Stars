@@ -71,7 +71,7 @@
 
 *   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - cursor 0.45.x machine id reset
 
-*   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Unofficial Docker container for a Terraria dedicated server. Supports vanilla and modded through tModLoader.
+*   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Unofficial Docker container for a Terraria dedicated server. Vanilla and Modded.
 
 *   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 
