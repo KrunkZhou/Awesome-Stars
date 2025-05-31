@@ -29,6 +29,8 @@
 
 ## Swift
 
+*   [Lakr233/Sentry](https://github.com/Lakr233/Sentry) - A powerful macOS security monitoring application that detects unauthorized access attempts and records video evidence for you.
+
 *   [sparrowcode/AlertKit](https://github.com/sparrowcode/AlertKit) - Native alert from Apple Music & Feedback. Contains Done, Heart & Message and other presets.
 
 *   [groue/GRDB.swift](https://github.com/groue/GRDB.swift) - A toolkit for SQLite databases, with a focus on application development
@@ -136,8 +138,6 @@
 ## Vue
 
 *   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
-
-*   [qcyblm/vuepress-theme-vpx-next](https://github.com/qcyblm/vuepress-theme-vpx-next) - Repo for vuepress-theme-vpx 2
 
 ## Dart
 
