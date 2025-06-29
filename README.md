@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Swift](#swift)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -16,7 +17,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
-*   [Java](#java)
 *   [Go](#go)
 *   [G-code](#g-code)
 *   [Rust](#rust)
@@ -26,6 +26,22 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
+
+## Java
+
+*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+
+*   [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+
+*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
+
+*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+
+*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
+
+*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 
 ## Swift
 
@@ -181,27 +197,11 @@
 
 *   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 
-*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
 ## PowerShell
 
 *   [empty-233/tencent-sandbox](https://github.com/empty-233/tencent-sandbox) - Windows sandbox 腾讯全家桶沙盒配置
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
-
-## Java
-
-*   [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
-
-*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
-
-*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-
-*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
-
-*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
 
 ## Go
 
