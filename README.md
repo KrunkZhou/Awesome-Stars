@@ -76,7 +76,7 @@
 
 *   [MatthewKuKanich/FindMyFlipper](https://github.com/MatthewKuKanich/FindMyFlipper) - The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.
 
-*   [parker-stephens/siriusxm-activator](https://github.com/parker-stephens/siriusxm-activator) - No longer maintaining. See: https://github.com/ddthekidd/sxm-activator-discord-invites
+*   [parker-stephens/siriusxm-activator](https://github.com/parker-stephens/siriusxm-activator) - No longer maintaining.
 
 *   [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 
