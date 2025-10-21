@@ -24,7 +24,6 @@
 *   [Svelte](#svelte)
 *   [Scala](#scala)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Batchfile](#batchfile)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [PHP](#php)
@@ -365,6 +364,8 @@
 
 *   [empty-233/tencent-sandbox](https://github.com/empty-233/tencent-sandbox) - Windows sandbox 腾讯全家桶沙盒配置
 
+*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
 *   [MScholtes/PS2EXE](https://github.com/MScholtes/PS2EXE) - Module to compile powershell scripts to executables
 
 ## G-code
@@ -416,10 +417,6 @@
 ## Jupyter Notebook
 
 *   [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
-
-## Batchfile
-
-*   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 
 ## HTML
 
