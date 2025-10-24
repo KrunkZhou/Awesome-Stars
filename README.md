@@ -33,6 +33,8 @@
 
 ## Go
 
+*   [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments) - Experimenting with Apple's WPS location service
+
 *   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 
 *   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -290,8 +292,6 @@
 *   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 
 *   [ShiveryMoon/EXAPUNKS-Manual-Localization-Chinese](https://github.com/ShiveryMoon/EXAPUNKS-Manual-Localization-Chinese) - steam游戏EXAPUNKS文档汉化
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
 
 ## JavaScript
 
