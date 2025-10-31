@@ -141,7 +141,7 @@
 
 ## Shell
 
-*   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - cursor 0.45.x machine id reset
+*   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - Cursor Machine ID / Device ID Reset (Supports ≥ 0.45.0; Windows/macOS/Linux)
 
 *   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Unofficial Docker container for a Terraria dedicated server. Vanilla and Modded.
 
