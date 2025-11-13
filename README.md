@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Go](#go)
 *   [Swift](#swift)
 *   [Java](#java)
@@ -19,7 +20,6 @@
 *   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [G-code](#g-code)
-*   [Rust](#rust)
 *   [C](#c-1)
 *   [Svelte](#svelte)
 *   [Scala](#scala)
@@ -30,6 +30,14 @@
 *   [PHP](#php)
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
+
+## Rust
+
+*   [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## Go
 
@@ -359,8 +367,6 @@
 
 *   [august6th/discuz-wechat-miniprogram](https://github.com/august6th/discuz-wechat-miniprogram) - Discuz 论坛实现接口，以及结合 Discuz 的微信小程序
 
-*   [iamxjb/winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net) - 微慕小程序开源版-WordPress版微信小程序
-
 ## PowerShell
 
 *   [empty-233/tencent-sandbox](https://github.com/empty-233/tencent-sandbox) - Windows sandbox 腾讯全家桶沙盒配置
@@ -370,12 +376,6 @@
 ## G-code
 
 *   [re-mote-sensing/re-mote](https://github.com/re-mote-sensing/re-mote) - Open-source Low-cost Software and Hardware Infrastructure for Remote Sensing
-
-## Rust
-
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## C
 
