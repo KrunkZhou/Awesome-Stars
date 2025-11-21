@@ -6,14 +6,14 @@
 
 ## Table of Contents
 
-*   [Go](#go)
+*   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
+*   [C++](#c)
+*   [Go](#go)
 *   [Rust](#rust)
 *   [Swift](#swift)
 *   [Java](#java)
 *   [Python](#python)
-*   [Shell](#shell)
-*   [C++](#c)
 *   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Dart](#dart)
@@ -31,31 +31,29 @@
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
 
-## Go
+## Shell
 
-*   [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+*   [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS\_
 
-*   [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments) - Experimenting with Apple's WPS location service
+*   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - Cursor Machine ID / Device ID Reset (Supports ≥ 0.45.0; Windows/macOS/Linux)
 
-*   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+*   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Unofficial Docker container for a Terraria dedicated server. Vanilla and Modded.
 
-*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 
-*   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
 
-*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
 
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+*   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 
-*   [pyed/transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot
-
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
+*   [mayankk2308/set-egpu](https://github.com/mayankk2308/set-egpu) - Display-agnostic acceleration of macOS applications using external GPUs.
 
 ## miscellaneous
+
+*   [sebaxakerhtc/rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini) - RDPWrap.ini for RDP Wrapper Library by Stas'M
 
 *   [qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) -
 
@@ -86,6 +84,64 @@
 *   [edgardo001/PHPManagerForIIS-Versiones](https://github.com/edgardo001/PHPManagerForIIS-Versiones) - PHPManagerForIIS-1.2.0-x64 - IIS 7.msi
 
 *   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
+
+## C++
+
+*   [Forairaaaaa/Rachel](https://github.com/Forairaaaaa/Rachel) - DIY 迷你游戏机
+
+*   [vdshko/vdshko-Spatialite\_GRDB\_Sample](https://github.com/vdshko/vdshko-Spatialite_GRDB_Sample) - This sample shows how to integrate Spatialite, GRDB, and SQLCipher into your Swift project. It's nearly empty, however, it's fully playable.
+
+*   [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered)
+
+*   [ayushsharma82/WebSerial](https://github.com/ayushsharma82/WebSerial) - A remote terminal library for wireless microcontrollers to log, monitor or debug your firmware/product.
+
+*   [stanleyhuangyc/Freematics](https://github.com/stanleyhuangyc/Freematics) - Official source code repository for Freematics
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+
+*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+
+*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
+
+*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands
+
+*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
+
+*   [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
+
+*   [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - \[Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
+
+*   [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
+
+*   [polygraphene/ALVR](https://github.com/polygraphene/ALVR) - ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.
+
+*   [L3cr0f/DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC) - Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe".
+
+## Go
+
+*   [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+
+*   [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments) - Experimenting with Apple's WPS location service
+
+*   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+
+*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+
+*   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
+
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+*   [pyed/transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot
+
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 
 ## Rust
 
@@ -177,58 +233,6 @@
 
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
 
-*   [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
-
-## Shell
-
-*   [hamflx/cursor-reset](https://github.com/hamflx/cursor-reset) - Cursor Machine ID / Device ID Reset (Supports ≥ 0.45.0; Windows/macOS/Linux)
-
-*   [PassiveLemon/terraria-docker](https://github.com/PassiveLemon/terraria-docker) - Unofficial Docker container for a Terraria dedicated server. Vanilla and Modded.
-
-*   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
-
-*   [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) - Virtual DSM in a Docker container.
-
-*   [itzg/docker-minecraft-server](https://github.com/itzg/docker-minecraft-server) - Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup
-
-*   [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
-
-*   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
-
-*   [mayankk2308/set-egpu](https://github.com/mayankk2308/set-egpu) - Display-agnostic acceleration of macOS applications using external GPUs.
-
-## C++
-
-*   [vdshko/vdshko-Spatialite\_GRDB\_Sample](https://github.com/vdshko/vdshko-Spatialite_GRDB_Sample) - This sample shows how to integrate Spatialite, GRDB, and SQLCipher into your Swift project. It's nearly empty, however, it's fully playable.
-
-*   [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered)
-
-*   [ayushsharma82/WebSerial](https://github.com/ayushsharma82/WebSerial) - A remote terminal library for wireless microcontrollers to log, monitor or debug your firmware/product.
-
-*   [stanleyhuangyc/Freematics](https://github.com/stanleyhuangyc/Freematics) - Official source code repository for Freematics
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
-*   [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-
-*   [li-tianshuo/hbv\_model\_builder](https://github.com/li-tianshuo/hbv_model_builder) - An implementation of HBV Hydrological model by C++.
-
-*   [M2Team/NanaBox](https://github.com/M2Team/NanaBox) - The third-party lightweight XAML-based out-of-box-experience oriented Hyper-V virtualization software based on Host Compute System API, Remote Desktop ActiveX control and XAML Islands
-
-*   [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
-
-*   [arkhipenko/TaskScheduler](https://github.com/arkhipenko/TaskScheduler) - Cooperative multitasking for Arduino, ESPx, STM32, nRF and other microcontrollers
-
-*   [M2TeamArchived/NSudo](https://github.com/M2TeamArchived/NSudo) - \[Deprecated, work in progress alternative: https://github.com/M2Team/NanaRun] Series of System Administration Tools
-
-*   [zzanehip/The-OldOS-Project](https://github.com/zzanehip/The-OldOS-Project) - Recreating a fully functional version of iOS 4 in SwiftUI.
-
-*   [polygraphene/ALVR](https://github.com/polygraphene/ALVR) - ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.
-
-*   [L3cr0f/DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC) - Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe".
-
 ## TypeScript
 
 *   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -282,8 +286,6 @@
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 
 *   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
-*   [RocketChat/docs-old](https://github.com/RocketChat/docs-old) - Rocket.Chat's user documentation.
 
 ## Vue
 
@@ -364,8 +366,6 @@
 *   [SuRuiGit/wxapp-customTabbar](https://github.com/SuRuiGit/wxapp-customTabbar) - custom tabbar for wxapp
 
 *   [xiaoping6688/wx-miniprogram-project](https://github.com/xiaoping6688/wx-miniprogram-project) - 微信小程序开发实践-课程表
-
-*   [august6th/discuz-wechat-miniprogram](https://github.com/august6th/discuz-wechat-miniprogram) - Discuz 论坛实现接口，以及结合 Discuz 的微信小程序
 
 ## PowerShell
 
