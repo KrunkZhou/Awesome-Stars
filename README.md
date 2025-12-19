@@ -6,6 +6,9 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
+*   [TypeScript](#typescript)
+*   [PHP](#php)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
@@ -14,10 +17,8 @@
 *   [Swift](#swift)
 *   [Java](#java)
 *   [Python](#python)
-*   [TypeScript](#typescript)
 *   [Vue](#vue)
 *   [Dart](#dart)
-*   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [G-code](#g-code)
 *   [C](#c-1)
@@ -27,9 +28,148 @@
 *   [Batchfile](#batchfile)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
-*   [PHP](#php)
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
+
+## JavaScript
+
+*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+
+*   [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
+
+*   [INSIDERDAVIDLAI/APS\_1050\_Final\_Project](https://github.com/INSIDERDAVIDLAI/APS_1050_Final_Project) - BLOCKCHAIN TECHNOLOGIES AND ITS APPLICATIONS TO CRYPTOCURRENCIES FINAL PROJECT
+
+*   [timvisee/send](https://github.com/timvisee/send) - :mailbox\_with\_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
+
+*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+
+*   [SweetIceLolly/Amima-Backend](https://github.com/SweetIceLolly/Amima-Backend) - Amima Backend
+
+*   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+
+*   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
+
+*   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
+
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+*   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
+
+*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+*   [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
+
+*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+
+*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
+
+*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+
+*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
+
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+
+*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
+
+*   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
+
+*   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
+
+*   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
+
+*   [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
+
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
+*   [jayden320/MeiTuan](https://github.com/jayden320/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
+
+*   [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
+
+*   [SuRuiGit/wxapp-customTabbar](https://github.com/SuRuiGit/wxapp-customTabbar) - custom tabbar for wxapp
+
+*   [xiaoping6688/wx-miniprogram-project](https://github.com/xiaoping6688/wx-miniprogram-project) - 微信小程序开发实践-课程表
+
+## TypeScript
+
+*   [GSManagerXZ/GameServerManager](https://github.com/GSManagerXZ/GameServerManager) - GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服
+
+*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+
+*   [potmat/homebridge-google-nest-sdm](https://github.com/potmat/homebridge-google-nest-sdm) - A Homebridge plugin for Google Nest devices that uses the Google Smart Device Management API. Supports Cameras, Doorbells, Displays, and Thermostats. Includes support for HomeKit Secure Video.
+
+*   [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
+
+*   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+
+*   [K0IN/Notify](https://github.com/K0IN/Notify) - A small deno deploy / self hosted solution to send web push notifications with webhooks
+
+*   [jupyterlab-contrib/rise](https://github.com/jupyterlab-contrib/rise) - RISE: "Live" Reveal.js JupyterLab Slideshow Extension
+
+*   [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+
+*   [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+
+*   [JoaoFelipe/nbslide](https://github.com/JoaoFelipe/nbslide) - Slideshow extension for JupyterLab.
+
+*   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
+
+*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
+
+*   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - 📚 Unofficial TypeScript client for the Grammarly API
+
+*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+
+*   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
+
+*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
+
+*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
+
+*   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
+
+*   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly.
+
+*   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for all UniFi Protect device types with full support for most features including HomeKit Secure Video, and more.  https://homebridge.io
+
+*   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
+
+*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
+
+*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
+
+*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+
+*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+
+## PHP
+
+*   [meilisearch/meilisearch-php](https://github.com/meilisearch/meilisearch-php) - PHP client for Meilisearch
+
+*   [edamov/pushok](https://github.com/edamov/pushok) - PHP client for Apple Push Notification Service (APNs) - Send push notifications to iOS using the new APNs HTTP/2 protocol with token-based (JWT with p8 private key)
+
+*   [outlandishideas/sync](https://github.com/outlandishideas/sync) - Sync directory contents over HTTP using PHP
+
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
+*   [bloatless/php-websocket](https://github.com/bloatless/php-websocket) - Simple WebSocket server implemented in PHP.
+
+*   [axsonfun/Typecho-Theme-BlueMix](https://github.com/axsonfun/Typecho-Theme-BlueMix) - 🍧 蓝白胖次风格呈现二次元模板
+
+*   [axsonfun/Typecho-Theme-niRvana](https://github.com/axsonfun/Typecho-Theme-niRvana) - 🍰 一款大气简洁的作品展示Typecho模板
+
+*   [akibaso/BackDoorV1](https://github.com/akibaso/BackDoorV1) - A s1mple PHP backdoor.
+
+*   [The009/SmartSwitchPHPController](https://github.com/The009/SmartSwitchPHPController) - A CLI or Web Interface written in PHP Using Sockets to directly control TP-Link Smart Switches
 
 ## Shell
 
@@ -233,62 +373,6 @@
 
 *   [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT) - 由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
-*   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-
-## TypeScript
-
-*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-
-*   [potmat/homebridge-google-nest-sdm](https://github.com/potmat/homebridge-google-nest-sdm) - A Homebridge plugin for Google Nest devices that uses the Google Smart Device Management API. Supports Cameras, Doorbells, Displays, and Thermostats. Includes support for HomeKit Secure Video.
-
-*   [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-
-*   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-
-*   [K0IN/Notify](https://github.com/K0IN/Notify) - A small deno deploy / self hosted solution to send web push notifications with webhooks
-
-*   [jupyterlab-contrib/rise](https://github.com/jupyterlab-contrib/rise) - RISE: "Live" Reveal.js JupyterLab Slideshow Extension
-
-*   [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-
-*   [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
-
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [JoaoFelipe/nbslide](https://github.com/JoaoFelipe/nbslide) - Slideshow extension for JupyterLab.
-
-*   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
-
-*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
-
-*   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - 📚 Unofficial TypeScript client for the Grammarly API
-
-*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-
-*   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
-
-*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-
-*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
-
-*   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-
-*   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly.
-
-*   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for all UniFi Protect device types with full support for most features including HomeKit Secure Video, and more.  https://homebridge.io
-
-*   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
-
-*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-
-*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-
-*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
 ## Vue
 
 *   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
@@ -304,68 +388,6 @@
 ## Dart
 
 *   [dchristl/macless-haystack](https://github.com/dchristl/macless-haystack) - Create your own AirTag with  OpenHaystack, but without the need to own an Apple device
-
-## JavaScript
-
-*   [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-
-*   [INSIDERDAVIDLAI/APS\_1050\_Final\_Project](https://github.com/INSIDERDAVIDLAI/APS_1050_Final_Project) - BLOCKCHAIN TECHNOLOGIES AND ITS APPLICATIONS TO CRYPTOCURRENCIES FINAL PROJECT
-
-*   [timvisee/send](https://github.com/timvisee/send) - :mailbox\_with\_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-
-*   [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-
-*   [SweetIceLolly/Amima-Backend](https://github.com/SweetIceLolly/Amima-Backend) - Amima Backend
-
-*   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-
-*   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
-
-*   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
-
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-
-*   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-
-*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-
-*   [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
-
-*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-
-*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
-
-*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-
-*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
-
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-
-*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
-
-*   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
-
-*   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
-
-*   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
-
-*   [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
-
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
-
-*   [jayden320/MeiTuan](https://github.com/jayden320/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
-
-*   [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
-
-*   [SuRuiGit/wxapp-customTabbar](https://github.com/SuRuiGit/wxapp-customTabbar) - custom tabbar for wxapp
-
-*   [xiaoping6688/wx-miniprogram-project](https://github.com/xiaoping6688/wx-miniprogram-project) - 微信小程序开发实践-课程表
 
 ## PowerShell
 
@@ -403,8 +425,6 @@
 
 *   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
 
-*   [NovaFusion/twrp\_kernel](https://github.com/NovaFusion/twrp_kernel) - Linux 3.0.31 (TWRP) source tree for i8190
-
 ## Svelte
 
 *   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
@@ -436,26 +456,6 @@
 *   [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
 
 *   [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
-
-## PHP
-
-*   [edamov/pushok](https://github.com/edamov/pushok) - PHP client for Apple Push Notification Service (APNs) - Send push notifications to iOS using the new APNs HTTP/2 protocol with token-based (JWT with p8 private key)
-
-*   [outlandishideas/sync](https://github.com/outlandishideas/sync) - Sync directory contents over HTTP using PHP
-
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-
-*   [bloatless/php-websocket](https://github.com/bloatless/php-websocket) - Simple WebSocket server implemented in PHP.
-
-*   [axsonfun/Typecho-Theme-BlueMix](https://github.com/axsonfun/Typecho-Theme-BlueMix) - 🍧 蓝白胖次风格呈现二次元模板
-
-*   [axsonfun/Typecho-Theme-niRvana](https://github.com/axsonfun/Typecho-Theme-niRvana) - 🍰 一款大气简洁的作品展示Typecho模板
-
-*   [akibaso/BackDoorV1](https://github.com/akibaso/BackDoorV1) - A s1mple PHP backdoor.
-
-*   [The009/SmartSwitchPHPController](https://github.com/The009/SmartSwitchPHPController) - A CLI or Web Interface written in PHP Using Sockets to directly control TP-Link Smart Switches
-
-*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
 
 ## C\#
 
