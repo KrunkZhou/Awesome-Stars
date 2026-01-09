@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [PHP](#php)
@@ -13,7 +14,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Go](#go)
-*   [Rust](#rust)
 *   [Swift](#swift)
 *   [Java](#java)
 *   [Python](#python)
@@ -30,6 +30,16 @@
 *   [Objective-C](#objective-c)
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
+
+## Rust
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+*   [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## JavaScript
 
@@ -148,8 +158,6 @@
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
-
-*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 
 ## PHP
 
@@ -284,14 +292,6 @@
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 *   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-## Rust
-
-*   [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 
 ## Swift
 
