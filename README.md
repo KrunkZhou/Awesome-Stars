@@ -369,7 +369,7 @@
 
 *   [puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi) - Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.
 
-*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+*   [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀Clone a voice in 5 seconds to generate arbitrary speech in real-time
 
 *   [Turing-Project/WriteGPT](https://github.com/Turing-Project/WriteGPT) - 由图灵的猫开发，基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化
 
