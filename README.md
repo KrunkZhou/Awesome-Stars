@@ -6,8 +6,8 @@
 
 ## Table of Contents
 
-*   [Rust](#rust)
 *   [JavaScript](#javascript)
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [PHP](#php)
 *   [Shell](#shell)
@@ -31,17 +31,9 @@
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
 
-## Rust
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-
-*   [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
-
-*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
 ## JavaScript
+
+*   [front/g-editor](https://github.com/front/g-editor) - A minimalist version of the Gutenberg editor
 
 *   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
 
@@ -105,6 +97,16 @@
 
 *   [xiaoping6688/wx-miniprogram-project](https://github.com/xiaoping6688/wx-miniprogram-project) - 微信小程序开发实践-课程表
 
+## Rust
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+*   [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
+
+*   [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
 ## TypeScript
 
 *   [GSManagerXZ/GameServerManager](https://github.com/GSManagerXZ/GameServerManager) - GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服
@@ -156,8 +158,6 @@
 *   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 *   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-
-*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 
 ## PHP
 
@@ -273,7 +273,7 @@
 
 *   [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 
-*   [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments) - Experimenting with Apple's WPS location service
+*   [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments) - Research dump on how IOS Location Services work
 
 *   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
 
