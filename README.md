@@ -94,7 +94,7 @@
 
 *   [front/g-editor](https://github.com/front/g-editor) - A minimalist version of the Gutenberg editor
 
-*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the kanban-style project mastering tool for everyone.
+*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
 
 *   [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 
