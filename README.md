@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Swift](#swift)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
@@ -16,7 +17,6 @@
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Go](#go)
-*   [Java](#java)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [Dart](#dart)
@@ -31,6 +31,30 @@
 *   [Objective-C](#objective-c)
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
+
+## Java
+
+*   [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
+
+*   [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
+
+*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
+
+*   [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
+
+*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
+
+*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
+
+*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
+
+*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
+
+*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
+
+*   [ushahidi/SMSSync](https://github.com/ushahidi/SMSSync) - SMS gateway for Android powered phones
+
+*   [sakaiproject/sakai](https://github.com/sakaiproject/sakai) - Sakai is a freely available, feature-rich technology solution for learning, teaching, research and collaboration. Sakai is an open source software suite developed by a diverse and global adopter community.
 
 ## Swift
 
@@ -165,8 +189,6 @@
 *   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 *   [jayden320/MeiTuan](https://github.com/jayden320/MeiTuan) - MeiTuan App Write In latest React-Native(0.62.2)
-
-*   [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations
 
 ## Rust
 
@@ -311,28 +333,6 @@
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 
 *   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
-## Java
-
-*   [nfcgate/nfcgate](https://github.com/nfcgate/nfcgate) - An NFC research toolkit application for Android
-
-*   [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
-
-*   [traccar/traccar](https://github.com/traccar/traccar) - Traccar GPS Tracking System
-
-*   [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) - 🎶 A Discord music bot that's easy to set up and run yourself!
-
-*   [GeyserMC/Geyser](https://github.com/GeyserMC/Geyser) - A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.
-
-*   [li-tianshuo/Silocareprojects](https://github.com/li-tianshuo/Silocareprojects) -
-
-*   [JorgeMaker/InfluxDBWorkBench](https://github.com/JorgeMaker/InfluxDBWorkBench) - InfluxDB WorkBench is a GUI tool for the InfluxDB database written in Java that runs on Windows , Mac OS X and Unix/Linux
-
-*   [Grasscutters/Grasscutter](https://github.com/Grasscutters/Grasscutter) - A server software reimplementation for a certain anime game.
-
-*   [ushahidi/SMSSync](https://github.com/ushahidi/SMSSync) - SMS gateway for Android powered phones
-
-*   [sakaiproject/sakai](https://github.com/sakaiproject/sakai) - Sakai is a freely available, feature-rich technology solution for learning, teaching, research and collaboration. Sakai is an open source software suite developed by a diverse and global adopter community.
 
 ## Python
 
