@@ -6,7 +6,6 @@
 
 ## Table of Contents
 
-*   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Swift](#swift)
@@ -28,23 +27,14 @@
 *   [Scala](#scala)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Batchfile](#batchfile)
+*   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [C#](#c-2)
 *   [Dockerfile](#dockerfile)
 
-## HTML
+## TypeScript
 
 *   [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - The JSON discoverer allows you to discover the implicit schema of your JSON documents. Please visit the website to use the tool
-
-*   [wanghurui/whrblog](https://github.com/wanghurui/whrblog) - blog
-
-*   [axsonfun/UiliPay](https://github.com/axsonfun/UiliPay) - 🍼 一款能API调用的收款页面
-
-## TypeScript
 
 *   [frostoven/Squoosh-with-CLI](https://github.com/frostoven/Squoosh-with-CLI) - Fork of Google's Squoosh, but with the CLI retained
 
@@ -453,6 +443,16 @@
 ## Batchfile
 
 *   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+
+## HTML
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - The JSON discoverer allows you to discover the implicit schema of your JSON documents. Please visit the website to use the tool
+
+*   [wanghurui/whrblog](https://github.com/wanghurui/whrblog) - blog
+
+*   [axsonfun/UiliPay](https://github.com/axsonfun/UiliPay) - 🍼 一款能API调用的收款页面
 
 ## Objective-C
 
