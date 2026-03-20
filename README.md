@@ -23,7 +23,6 @@
 *   [PowerShell](#powershell)
 *   [G-code](#g-code)
 *   [C](#c-1)
-*   [Svelte](#svelte)
 *   [Scala](#scala)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Batchfile](#batchfile)
@@ -330,6 +329,8 @@
 
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
+*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+
 *   [pyed/transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot
 
 *   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
@@ -427,10 +428,6 @@
 *   [telekom-security/tpotce](https://github.com/telekom-security/tpotce) - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 
 *   [peng-zhihui/L-ink\_Card](https://github.com/peng-zhihui/L-ink_Card) - Smart NFC & ink-Display Card
-
-## Svelte
-
-*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 
 ## Scala
 
