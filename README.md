@@ -201,6 +201,8 @@
 
 *   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
 
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
 *   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
 
 *   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
@@ -230,8 +232,6 @@
 *   [edamov/pushok](https://github.com/edamov/pushok) - PHP client for Apple Push Notification Service (APNs) - Send push notifications to iOS using the new APNs HTTP/2 protocol with token-based (JWT with p8 private key)
 
 *   [outlandishideas/sync](https://github.com/outlandishideas/sync) - Sync directory contents over HTTP using PHP
-
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 
 *   [bloatless/php-websocket](https://github.com/bloatless/php-websocket) - Simple WebSocket server implemented in PHP.
 
