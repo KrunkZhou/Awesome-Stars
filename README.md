@@ -37,7 +37,7 @@
 
 *   [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
 
-*   [cedrozor/myrtille](https://github.com/cedrozor/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
+*   [myrtille-rdp/myrtille](https://github.com/myrtille-rdp/myrtille) - A native HTML4 / HTML5 Remote Desktop Protocol and SSH client
 
 *   [gibbed/SteamAchievementManager](https://github.com/gibbed/SteamAchievementManager) - A manager for game achievements in Steam.
 
