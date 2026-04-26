@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Go](#go)
 *   [C#](#c)
 *   [TypeScript](#typescript)
 *   [Java](#java)
@@ -17,7 +18,6 @@
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
-*   [Go](#go)
 *   [Python](#python)
 *   [Vue](#vue)
 *   [Dart](#dart)
@@ -30,6 +30,34 @@
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## Go
+
+*   [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates
+
+*   [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
+
+*   [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments) - Research dump on how IOS Location Services work
+
+*   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
+
+*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+
+*   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+
+*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+
+*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
+
+*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
+*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+
+*   [pyed/transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot
+
+*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+
+*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 
 ## C\#
 
@@ -329,32 +357,6 @@
 
 *   [L3cr0f/DccwBypassUAC](https://github.com/L3cr0f/DccwBypassUAC) - Windows 8.1 and 10 UAC bypass abusing WinSxS in "dccw.exe".
 
-## Go
-
-*   [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
-
-*   [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments) - Research dump on how IOS Location Services work
-
-*   [iyear/tdl](https://github.com/iyear/tdl) - 📥 A Telegram toolkit written in Golang
-
-*   [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
-
-*   [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
-
-*   [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
-
-*   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web interface.
-
-*   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
-
-*   [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap) - A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-
-*   [pyed/transmission-telegram](https://github.com/pyed/transmission-telegram) - Control your Transmission through a Telegram bot
-
-*   [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-
-*   [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-
 ## Python
 
 *   [joanrod/star-vector](https://github.com/joanrod/star-vector) - StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
@@ -466,8 +468,6 @@
 *   [SOM-Research/jsonDiscoverer](https://github.com/SOM-Research/jsonDiscoverer) - The JSON discoverer allows you to discover the implicit schema of your JSON documents. Please visit the website to use the tool
 
 *   [wanghurui/whrblog](https://github.com/wanghurui/whrblog) - blog
-
-*   [axsonfun/UiliPay](https://github.com/axsonfun/UiliPay) - 🍼 一款能API调用的收款页面
 
 ## Objective-C
 
