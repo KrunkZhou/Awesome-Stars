@@ -6,10 +6,11 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
 *   [C#](#c)
-*   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Swift](#swift)
 *   [Kotlin](#kotlin)
@@ -17,7 +18,6 @@
 *   [Rust](#rust)
 *   [PHP](#php)
 *   [Shell](#shell)
-*   [miscellaneous](#miscellaneous)
 *   [C++](#c-1)
 *   [Vue](#vue)
 *   [Dart](#dart)
@@ -30,6 +30,102 @@
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## miscellaneous
+
+*   [dporkka/windows-product-key](https://github.com/dporkka/windows-product-key) - How to find your Windows Product Key
+
+*   [sebaxakerhtc/rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini) - RDPWrap.ini for RDP Wrapper Library by Stas'M
+
+*   [qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) -
+
+*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
+
+*   [zTrix/sata-license](https://github.com/zTrix/sata-license) - The Star And Thank Author License(SATA License)
+
+*   [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+
+*   [nvPress/nvPress](https://github.com/nvPress/nvPress) - 基于Vue、NodeJS的免费CMS系统
+
+*   [github-education-resources/GitHubGraduation-2022](https://github.com/github-education-resources/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
+
+*   [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版
+
+*   [sitegui/nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - A node.js module for websocket server and client
+
+*   [LegnaOS/Booked-Translate](https://github.com/LegnaOS/Booked-Translate) - Booked Translate For Wordpress，Using Genuine Booked Plugin For Wordpress ，site:https://getbooked.io/
+
+*   [LegnaOS/StartupAnimation](https://github.com/LegnaOS/StartupAnimation) - 对HackBGRT进行简体中文化处理，符合中国本土用户使用
+
+*   [LegnaOS/SimpleWebNavigation](https://github.com/LegnaOS/SimpleWebNavigation) - 这是一个基于PHP给个人使用的网址导航，所有链接均可以在txt文件中添加与删除而不需要修改代码
+
+*   [LegnaOS/TrafficMonitor](https://github.com/LegnaOS/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+
+*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
+
+*   [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - RelatedChat
+
+*   [edgardo001/PHPManagerForIIS-Versiones](https://github.com/edgardo001/PHPManagerForIIS-Versiones) - PHPManagerForIIS-1.2.0-x64 - IIS 7.msi
+
+## TypeScript
+
+*   [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
+
+*   [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
+
+*   [frostoven/Squoosh-with-CLI](https://github.com/frostoven/Squoosh-with-CLI) - Fork of Google's Squoosh, but with the CLI retained
+
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
+*   [GSManagerXZ/GameServerManager](https://github.com/GSManagerXZ/GameServerManager) - GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服
+
+*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+
+*   [potmat/homebridge-google-nest-sdm](https://github.com/potmat/homebridge-google-nest-sdm) - A Homebridge plugin for Google Nest devices that uses the Google Smart Device Management API. Supports Cameras, Doorbells, Displays, and Thermostats. Includes support for HomeKit Secure Video.
+
+*   [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
+
+*   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
+
+*   [K0IN/Notify](https://github.com/K0IN/Notify) - A small deno deploy / self hosted solution to send web push notifications with webhooks
+
+*   [jupyterlab-contrib/rise](https://github.com/jupyterlab-contrib/rise) - RISE: "Live" Reveal.js JupyterLab Slideshow Extension
+
+*   [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
+
+*   [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
+
+*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
+
+*   [JoaoFelipe/nbslide](https://github.com/JoaoFelipe/nbslide) - Slideshow extension for JupyterLab.
+
+*   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
+
+*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
+
+*   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - 📚 Unofficial TypeScript client for the Grammarly API
+
+*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
+
+*   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
+
+*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
+
+*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
+
+*   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
+
+*   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly.
+
+*   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for all UniFi Protect device types with full support for most features including HomeKit Secure Video, and more.  https://homebridge.io
+
+*   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
+
+*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
+
+*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 
 ## Python
 
@@ -124,64 +220,6 @@
 *   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 
 *   [graboskyc/POSWraper](https://github.com/graboskyc/POSWraper) - UWP wrapper for a website
-
-## TypeScript
-
-*   [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
-
-*   [frostoven/Squoosh-with-CLI](https://github.com/frostoven/Squoosh-with-CLI) - Fork of Google's Squoosh, but with the CLI retained
-
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-
-*   [GSManagerXZ/GameServerManager](https://github.com/GSManagerXZ/GameServerManager) - GameServerManager（简称GSManager）现代化游戏一键部署面板，专为简化游戏服务器的部署、管理和维护而设计；注重steam、MC游戏一键开服
-
-*   [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
-
-*   [potmat/homebridge-google-nest-sdm](https://github.com/potmat/homebridge-google-nest-sdm) - A Homebridge plugin for Google Nest devices that uses the Google Smart Device Management API. Supports Cameras, Doorbells, Displays, and Thermostats. Includes support for HomeKit Secure Video.
-
-*   [kevinschaich/mintable](https://github.com/kevinschaich/mintable) - 🍃 Automate your personal finances – for free, with no ads, and no data collection.
-
-*   [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
-
-*   [K0IN/Notify](https://github.com/K0IN/Notify) - A small deno deploy / self hosted solution to send web push notifications with webhooks
-
-*   [jupyterlab-contrib/rise](https://github.com/jupyterlab-contrib/rise) - RISE: "Live" Reveal.js JupyterLab Slideshow Extension
-
-*   [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
-
-*   [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
-
-*   [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
-
-*   [JoaoFelipe/nbslide](https://github.com/JoaoFelipe/nbslide) - Slideshow extension for JupyterLab.
-
-*   [Andiedie/sync-my-cookie](https://github.com/Andiedie/sync-my-cookie) - SyncMyCookie is a chrome extension to synchronize your cookies.
-
-*   [BrookJeynes/slime-rancher-2-interactive-map](https://github.com/BrookJeynes/slime-rancher-2-interactive-map) - An interactive map for Slime Rancher 2.
-
-*   [stewartmcgown/grammarly-api](https://github.com/stewartmcgown/grammarly-api) - 📚 Unofficial TypeScript client for the Grammarly API
-
-*   [lewish/asciiflow](https://github.com/lewish/asciiflow) - ASCIIFlow
-
-*   [extrabacon/python-shell](https://github.com/extrabacon/python-shell) - Run Python scripts from Node.js with simple (but efficient) inter-process communication through stdio
-
-*   [Belphemur/node-json-db](https://github.com/Belphemur/node-json-db) - A simple "database" that use JSON file for Node.JS.
-
-*   [nasa8x/rss-to-json](https://github.com/nasa8x/rss-to-json) - RSS and Atom feed generator for Node.js
-
-*   [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
-
-*   [emkis/ClippyCloud](https://github.com/emkis/ClippyCloud) - Easy way to upload and share files quickly.
-
-*   [hjdhjd/homebridge-unifi-protect](https://github.com/hjdhjd/homebridge-unifi-protect) - :video\_camera: Complete HomeKit integration for all UniFi Protect device types with full support for most features including HomeKit Secure Video, and more.  https://homebridge.io
-
-*   [snobu/destreamer](https://github.com/snobu/destreamer) - Save Microsoft Stream videos for offline enjoyment.
-
-*   [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-
-*   [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
-
-*   [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## Java
 
@@ -326,44 +364,6 @@
 *   [roleoroleo/yi-hack-Allwinner-v2](https://github.com/roleoroleo/yi-hack-Allwinner-v2) - Custom firmware for Yi 1080p camera based on Allwinner platform
 
 *   [mayankk2308/set-egpu](https://github.com/mayankk2308/set-egpu) - Display-agnostic acceleration of macOS applications using external GPUs.
-
-## miscellaneous
-
-*   [sebaxakerhtc/rdpwrap.ini](https://github.com/sebaxakerhtc/rdpwrap.ini) - RDPWrap.ini for RDP Wrapper Library by Stas'M
-
-*   [qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy](https://github.com/qnblackcat/How-to-Downgrade-apps-on-AppStore-with-iTunes-and-Charles-Proxy) -
-
-*   [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) -
-
-*   [zTrix/sata-license](https://github.com/zTrix/sata-license) - The Star And Thank Author License(SATA License)
-
-*   [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
-
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-
-*   [nvPress/nvPress](https://github.com/nvPress/nvPress) - 基于Vue、NodeJS的免费CMS系统
-
-*   [github-education-resources/GitHubGraduation-2022](https://github.com/github-education-resources/GitHubGraduation-2022) - Join the GitHub Graduation Yearbook and "walk the stage" on June 11.
-
-*   [tvvocold/How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way) - How To Ask Questions The Smart Way 《提问的智慧》中文版
-
-*   [sitegui/nodejs-websocket](https://github.com/sitegui/nodejs-websocket) - A node.js module for websocket server and client
-
-*   [LegnaOS/Booked-Translate](https://github.com/LegnaOS/Booked-Translate) - Booked Translate For Wordpress，Using Genuine Booked Plugin For Wordpress ，site:https://getbooked.io/
-
-*   [LegnaOS/StartupAnimation](https://github.com/LegnaOS/StartupAnimation) - 对HackBGRT进行简体中文化处理，符合中国本土用户使用
-
-*   [LegnaOS/SimpleWebNavigation](https://github.com/LegnaOS/SimpleWebNavigation) - 这是一个基于PHP给个人使用的网址导航，所有链接均可以在txt文件中添加与删除而不需要修改代码
-
-*   [LegnaOS/TrafficMonitor](https://github.com/LegnaOS/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-
-*   [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
-
-*   [relatedcode/RelatedChat](https://github.com/relatedcode/RelatedChat) - RelatedChat
-
-*   [edgardo001/PHPManagerForIIS-Versiones](https://github.com/edgardo001/PHPManagerForIIS-Versiones) - PHPManagerForIIS-1.2.0-x64 - IIS 7.msi
-
-*   [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 
 ## C++
 
