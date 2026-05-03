@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -30,6 +31,10 @@
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
 *   [Dockerfile](#dockerfile)
+
+## Ruby
+
+*   [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser) - 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails.
 
 ## miscellaneous
 
@@ -218,8 +223,6 @@
 *   [win-acme/win-acme](https://github.com/win-acme/win-acme) - Automate SSL/TLS certificates on Windows with ease
 
 *   [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-
-*   [graboskyc/POSWraper](https://github.com/graboskyc/POSWraper) - UWP wrapper for a website
 
 ## Java
 
