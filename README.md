@@ -6,6 +6,7 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Python](#python)
 *   [C](#c)
 *   [Ruby](#ruby)
@@ -16,7 +17,6 @@
 *   [Java](#java)
 *   [Swift](#swift)
 *   [Kotlin](#kotlin)
-*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [PHP](#php)
 *   [Shell](#shell)
@@ -30,6 +30,62 @@
 *   [Batchfile](#batchfile)
 *   [HTML](#html)
 *   [Objective-C](#objective-c)
+
+## JavaScript
+
+*   [Nuitfanee/ClickSync](https://github.com/Nuitfanee/ClickSync) - A multi-brand mouse web driver based on the Web HID API, supporting brands such as Razer, Logitech, Rapoo, ATK, Ninjutso, and Crdrkao.
+
+*   [front/g-editor](https://github.com/front/g-editor) - A minimalist version of the Gutenberg editor
+
+*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
+
+*   [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
+
+*   [INSIDERDAVIDLAI/APS\_1050\_Final\_Project](https://github.com/INSIDERDAVIDLAI/APS_1050_Final_Project) - BLOCKCHAIN TECHNOLOGIES AND ITS APPLICATIONS TO CRYPTOCURRENCIES FINAL PROJECT
+
+*   [timvisee/send](https://github.com/timvisee/send) - :mailbox\_with\_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
+
+*   [SweetIceLolly/Amima-Backend](https://github.com/SweetIceLolly/Amima-Backend) - Amima Backend
+
+*   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+
+*   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
+
+*   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
+
+*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+
+*   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
+
+*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+*   [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
+
+*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+
+*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
+
+*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+
+*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
+
+*   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
+
+*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
+
+*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
+
+*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
+
+*   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
+
+*   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
+
+*   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
 
 ## Python
 
@@ -296,62 +352,6 @@
 ## Kotlin
 
 *   [MetrolistGroup/Metrolist](https://github.com/MetrolistGroup/Metrolist) - YouTube Music client for Android
-
-## JavaScript
-
-*   [front/g-editor](https://github.com/front/g-editor) - A minimalist version of the Gutenberg editor
-
-*   [plankanban/planka](https://github.com/plankanban/planka) - PLANKA is the Kanban-style project mastering tool for everyone
-
-*   [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-
-*   [INSIDERDAVIDLAI/APS\_1050\_Final\_Project](https://github.com/INSIDERDAVIDLAI/APS_1050_Final_Project) - BLOCKCHAIN TECHNOLOGIES AND ITS APPLICATIONS TO CRYPTOCURRENCIES FINAL PROJECT
-
-*   [timvisee/send](https://github.com/timvisee/send) - :mailbox\_with\_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
-
-*   [SweetIceLolly/Amima-Backend](https://github.com/SweetIceLolly/Amima-Backend) - Amima Backend
-
-*   [COSC-4P02/COSC4P02Project](https://github.com/COSC-4P02/COSC4P02Project) - Brock University & Canada Games 2022 Chatbot Project
-
-*   [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-
-*   [i18next/i18next](https://github.com/i18next/i18next) -  i18next: learn once - translate everywhere
-
-*   [DimitryDushkin/sliding-pane](https://github.com/DimitryDushkin/sliding-pane) - Pane that slides out of the window side
-
-*   [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
-
-*   [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
-
-*   [akibaso/uptime-status](https://github.com/akibaso/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-
-*   [rawilk/vue-context](https://github.com/rawilk/vue-context) - A simple vue context menu component.
-
-*   [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-
-*   [dmitrizzle/chat-bubble](https://github.com/dmitrizzle/chat-bubble) - Simple chatbot UI for the Web with JSON scripting 👋🤖🤙
-
-*   [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
-
-*   [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
-
-*   [tcatche/hexo-generator-readme-file](https://github.com/tcatche/hexo-generator-readme-file) - Hexo plugin, generate a README.md file contains all of blogs posts link.Hexo 插件，可以生成一个包含所有的文章链接的README.md文件
-
-*   [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
-
-*   [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) - pull decrypted ipa from jailbreak device
-
-*   [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
-
-*   [onmyway133/PushNotifications](https://github.com/onmyway133/PushNotifications) - 🐉 A macOS, Linux, Windows app to test push notifications on iOS and Android
-
-*   [RonnieSan/uploadify](https://github.com/RonnieSan/uploadify) - A jQuery plugin for file uploads.
-
-*   [akibaso/akibaso.github.io](https://github.com/akibaso/akibaso.github.io) -
-
-*   [bennyxguo/hexo-theme-obsidian](https://github.com/bennyxguo/hexo-theme-obsidian) - 🎨 A dark Hexo theme, it's responsive, simple but elegant.
 
 ## Rust
 
